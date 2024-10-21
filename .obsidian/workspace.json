@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/processes.md",
+                "file": "docs/Learning/processes.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/processes.md",
+                "file": "docs/Learning/processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/processes.md",
+                "file": "docs/Learning/processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -139,18 +139,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/processes.md"
+                "file": "docs/Learning/processes.md"
               },
               "icon": "lucide-list",
               "title": "Outline of processes"
             }
+          },
+          {
+            "id": "33a8be70a90a5439",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,34 +170,35 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a89ade731931cad4",
+  "active": "57790ddf8bbe6aea",
   "lastOpenFiles": [
-    "Learning/Plane Building Introduction.md",
-    "Learning/processes.md",
-    "Learning/index.md",
+    "docs/Learning/Plane Building Introduction.md",
+    "docs/Learning/processes.md",
+    "docs/Learning/index.md",
     "docs/Item List.md",
     "docs/index.md",
-    "Learning/Pasted image 20241021185550.png",
-    "Learning",
+    "docs/Learning/Pasted image 20241021185550.png",
+    "docs/Learning",
     "README.md",
     "docs/find/Aeromodelling.md",
     "docs/find/Adhesives.md",
-    "Learning/Pasted image 20241021185743.png",
-    "Learning/Pasted image 20241021185718.png",
+    "docs/Learning/Pasted image 20241021185743.png",
+    "docs/Learning/Pasted image 20241021185718.png",
     "docs/find/connectors.md",
     "docs/find/Servo.md",
     "docs/find/components.md",
     "docs/find/Zeppelin.md",
     "docs/find/Viktor.md",
     "banaplugs.md",
-    "Learning/Pasted image 20241021185732.png",
-    "Learning/Pasted image 20241021185702.png",
-    "Learning/Pasted image 20241021185658.png",
-    "Learning/Pasted image 20241021185633.png",
-    "Learning/Pasted image 20241021185620.png",
-    "Learning/Pasted image 20241021185604.png"
+    "docs/Learning/Pasted image 20241021185732.png",
+    "docs/Learning/Pasted image 20241021185702.png",
+    "docs/Learning/Pasted image 20241021185658.png",
+    "docs/Learning/Pasted image 20241021185633.png",
+    "docs/Learning/Pasted image 20241021185620.png",
+    "docs/Learning/Pasted image 20241021185604.png"
   ]
 }

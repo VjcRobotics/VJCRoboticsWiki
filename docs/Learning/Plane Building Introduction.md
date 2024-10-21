@@ -8,4 +8,4 @@ For this aeromodelling project, you will need **non-rusted** high quality penk
 
 Next, view [processes](processes.md)
 
-[Home](Learning/index.md)
+[Home](docs/Learning/index.md)
