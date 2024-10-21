@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Learning/processes.md",
+                "file": "docs/Learning/Drones Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "processes"
+              "title": "Drones Learning"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Learning/processes.md",
+                "file": "docs/Learning/Drones Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for processes"
+              "title": "Backlinks for Drones Learning"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Learning/processes.md",
+                "file": "docs/Learning/Drones Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from processes"
+              "title": "Outgoing links from Drones Learning"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Learning/processes.md"
+                "file": "docs/Learning/Drones Learning.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of processes"
+              "title": "Outline of Drones Learning"
             }
           },
           {
@@ -174,16 +174,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57790ddf8bbe6aea",
+  "active": "a89ade731931cad4",
   "lastOpenFiles": [
-    "docs/Learning/Plane Building Introduction.md",
-    "docs/Learning/processes.md",
-    "docs/Learning/index.md",
-    "docs/Item List.md",
     "docs/index.md",
+    "docs/Learning/Plane Building Introduction.md",
+    "docs/Learning/Drones Learning.md",
+    "README.md",
+    "docs/Item List.md",
+    "docs/Learning/processes.md",
     "docs/Learning/Pasted image 20241021185550.png",
     "docs/Learning",
-    "README.md",
     "docs/find/Aeromodelling.md",
     "docs/find/Adhesives.md",
     "docs/Learning/Pasted image 20241021185743.png",

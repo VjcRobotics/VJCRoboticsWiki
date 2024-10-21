@@ -1,3 +1,3 @@
  This is Victoria Robotics and Maker Club's wiki
 [Item List](Item%20List.md)
-[[docs/Learning/index]]
+[Drones Learning](Drones%20Learning.md)
