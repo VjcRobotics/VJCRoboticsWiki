@@ -16,13 +16,13 @@ Qty:2
 
 Sunnysky F3P motors
 Qty:3
-![](Pasted%20image%2020241020023858.png)
+![](Pasted%20image%2020241020023858.png) ^0c4d7c
 
 10A ESC For RC Aircraft/KK Copter Quadcopter UFO F3P
-Qty:4
+Qty:4 
 
 ![](Pasted%20image%2020241020023935.png)
-
+^17feeb
 Artfriend 3mm foamboard
 Qty:11
 
@@ -35,8 +35,10 @@ FlySky FS-iA6 2.4G 6CH AFHDS Receiver
 | Carbon Rod 2.0mm *1000mm    | 10  |
 | Carbon Batten 0.3*30*1000mm | 8   |
 
-![](Pasted%20image%2020241020024143.png)
 
+
+![](Pasted%20image%2020241020024143.png)
+^7e8dea
 
 5pcs/Lot Airplane Propeller 3.17mm Prop Adapter Prop Saver with Screws Rubber O Rings Kit Electric Brushless Motor Shaft RC Part
 ![](Pasted%20image%2020241020024203.png)

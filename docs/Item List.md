@@ -8,3 +8,6 @@
 [[Suppliers]]
 [[Miscelaneous]]
 [[TX]]
+
+[Home](docs/index.md)
+

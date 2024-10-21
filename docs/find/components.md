@@ -2,7 +2,7 @@
 - [[PDB]]
 - [[Cameras]]
 - [Sensors+etc](Sensors+etc.md)
-- [[Servo]]
+- [[Servo]] 
 - [Batteries](Batteries.md)
 # Old components
 - NEVER TO BE STOCKED

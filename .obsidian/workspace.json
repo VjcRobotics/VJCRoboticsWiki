@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "6fe8fa8faf25f0f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8299e8331698306",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a89ade731931cad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/processes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "processes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f5ab4148200211a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e59997f097a37513",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57790ddf8bbe6aea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2abb9165681b74db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "63d8c90be70bb30f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6cba1b65ecda25d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f64dc04aaa8d18b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3718d5b349188669",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learning/processes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for processes"
+            }
+          },
+          {
+            "id": "e940801ba3238d77",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learning/processes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from processes"
+            }
+          },
+          {
+            "id": "6c0724b0ce1fb789",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ff05b2d32d8536d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learning/processes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of processes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "a89ade731931cad4",
+  "lastOpenFiles": [
+    "Learning/Plane Building Introduction.md",
+    "Learning/processes.md",
+    "Learning/index.md",
+    "docs/Item List.md",
+    "docs/index.md",
+    "Learning/Pasted image 20241021185550.png",
+    "Learning",
+    "README.md",
+    "docs/find/Aeromodelling.md",
+    "docs/find/Adhesives.md",
+    "Learning/Pasted image 20241021185743.png",
+    "Learning/Pasted image 20241021185718.png",
+    "docs/find/connectors.md",
+    "docs/find/Servo.md",
+    "docs/find/components.md",
+    "docs/find/Zeppelin.md",
+    "docs/find/Viktor.md",
+    "banaplugs.md",
+    "Learning/Pasted image 20241021185732.png",
+    "Learning/Pasted image 20241021185702.png",
+    "Learning/Pasted image 20241021185658.png",
+    "Learning/Pasted image 20241021185633.png",
+    "Learning/Pasted image 20241021185620.png",
+    "Learning/Pasted image 20241021185604.png"
+  ]
+}
