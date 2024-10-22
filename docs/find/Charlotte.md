@@ -5,6 +5,16 @@
 ![1000020209](https://github.com/user-attachments/assets/4194e447-8d0c-4161-9ffd-0d4e78439a66)
 
 ## Items in it
--
+ST Link
+
+MPU6050
+
+BMP280
+
+Silicone Wires
+
+Wire wrapping wires
+
+Wire wrapping tool
 
 ## Broken Items
