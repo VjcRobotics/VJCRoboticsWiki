@@ -6,8 +6,6 @@
 
 ## Items in it
 ![](294aa0683300c0d3faaad89d5fd413dc_MD5.webp)
-![](b34de69c425672cdccc0cd8db02b32d3_MD5.webp)
 
-Battery Charger
-
+- [SkyRC D100](Miscelaneous.md#^012eec) Balance Charger
 ## Broken Items

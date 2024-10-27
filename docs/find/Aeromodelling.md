@@ -32,7 +32,7 @@ Artfriend 3mm foamboard
 Qty:11
 
 FlySky FS-iA6 2.4G 6CH AFHDS Receiver
-![](Pasted%20image%2020241020024005.webp)
+![](Pasted%20image%2020241020024005.webp) ^206642
 
 | Title                       | Qty |
 | --------------------------- | --- |
@@ -44,4 +44,4 @@ FlySky FS-iA6 2.4G 6CH AFHDS Receiver
 ^7e8dea
 
 5pcs/Lot Airplane Propeller 3.17mm Prop Adapter Prop Saver with Screws Rubber O Rings Kit Electric Brushless Motor Shaft RC Part
-![](Pasted%20image%2020241020024203.webp)
+![](Pasted%20image%2020241020024203.webp) ^47cacc
