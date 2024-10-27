@@ -11,14 +11,12 @@
             "id": "a89ade731931cad4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/find/Bertha.md",
-                "mode": "source",
-                "source": true
+                "file": "docs/fe5128171d8e60f5ddab09b50242d025_MD5.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Bertha"
+              "icon": "lucide-image",
+              "title": "fe5128171d8e60f5ddab09b50242d025_MD5"
             }
           }
         ]
@@ -175,25 +173,25 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "a89ade731931cad4",
+  "active": "57790ddf8bbe6aea",
   "lastOpenFiles": [
+    "docs/find/Bertha.md",
     "docs/find/Aeromodelling.md",
     "docs/find/Arger.md",
     "docs/find/Anton.md",
-    "a9754adb96ed79fc76932db6ba82fbd4_MD5.jpg",
-    "ab4fda25cb725c63ca9d22d3e304e4c5_MD5.jpg",
+    "docs/a9754adb96ed79fc76932db6ba82fbd4_MD5.jpg",
+    "docs/ab4fda25cb725c63ca9d22d3e304e4c5_MD5.jpg",
     "conflict-files-obsidian-git.md",
-    "4b15ff4bf37f50f54f4faf5816690135_MD5.jpg",
-    "cf99e6726ec4623883ead9d491dd9a93_MD5.jpg",
-    "b428bc420d43cf4a4003909f303b2a53_MD5.webp",
-    "b34de69c425672cdccc0cd8db02b32d3_MD5.jpg",
-    "docs/find/Bertha.md",
+    "docs/4b15ff4bf37f50f54f4faf5816690135_MD5.jpg",
+    "docs/cf99e6726ec4623883ead9d491dd9a93_MD5.jpg",
+    "docs/b428bc420d43cf4a4003909f303b2a53_MD5.webp",
+    "docs/b34de69c425672cdccc0cd8db02b32d3_MD5.jpg",
     "docs/index.md",
     "docs/Item List.md",
-    "8eb81578967bafbb44aa66270d8f2f20_MD5.jpg",
-    "7f8d2500327e72f6192c68c7f4489a55_MD5.jpg",
-    "7a142f33e0510a54e6eaf6175b8cdb7b_MD5.jpg",
-    "3b48352cab2f93ada9e422d22941c603_MD5.jpg",
+    "docs/8eb81578967bafbb44aa66270d8f2f20_MD5.jpg",
+    "docs/7f8d2500327e72f6192c68c7f4489a55_MD5.jpg",
+    "docs/7a142f33e0510a54e6eaf6175b8cdb7b_MD5.jpg",
+    "docs/3b48352cab2f93ada9e422d22941c603_MD5.jpg",
     "docs/Learning/Plane Building Introduction.md",
     "docs/Learning/Drones Learning.md",
     "docs/find/Caser.md",
