@@ -1,3 +1,3 @@
 plugins: {
-  emitters: ContentIndex
+  emitters: {ContentIndex}
 }
