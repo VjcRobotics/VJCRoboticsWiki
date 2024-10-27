@@ -1,7 +1,7 @@
 
 These are the drone we have
 ## Tinywhoop Details
-![](Pasted%20image%2020241020024444.png)
+![](Pasted%20image%2020241020024444.webp)
 Cetus
 Pro:
 - basically cannot break
@@ -15,7 +15,7 @@ Cons:
 ## Custom Tinywhoop detals
 
 - Simarly specced to a meteor65
-![](Pasted%20image%2020241020024623.png)
+![](Pasted%20image%2020241020024623.webp)
 ### Components
 -  0702 30000kv
 -  Meteor65 air frame

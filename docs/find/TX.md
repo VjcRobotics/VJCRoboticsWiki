@@ -1,13 +1,13 @@
 ## Radiomaster Pocket
 - NEW
-![](Pasted%20image%2020241020025541.png)
+![](Pasted%20image%2020241020025541.webp)
 - ELRS
 - Good for the new drone
 - portable
 
 ## Radiomaster Zorro
 
-![](Pasted%20image%2020241020025623.png)
+![](Pasted%20image%2020241020025623.webp)
 - Supports more protocols
 - Compatible with the Cetus
 - Compatible with flysky
@@ -17,7 +17,7 @@
 
 Flysky i6x 
 
-![](Pasted%20image%2020241020025715.png)
+![](Pasted%20image%2020241020025715.webp)
 - Tried and tested 
 - We have like 6
 
