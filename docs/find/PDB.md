@@ -6,7 +6,7 @@ Doublebuy Matek Systems PDB Power Distribution Board XT60 W BEC 5V 12V 2oz Coppe
 ---
 id:15473
 quantity : 1
-BLS 35A Mini V2 20x20 4-in-1 ESC for RC FPV Racing Drone
+BLS 35A Mini V2 20x20 4-in-1 ESC for RC FPV Racing Drone ^da5abb
 - [ ] In use/spoiled
 
 ![](Pasted%20image%2020241020020032.webp)

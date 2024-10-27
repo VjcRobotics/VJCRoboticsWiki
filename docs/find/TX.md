@@ -1,4 +1,7 @@
 ## Radiomaster Pocket
+
+^cece1f
+
 - NEW
 ![](Pasted%20image%2020241020025541.webp)
 - ELRS
@@ -6,6 +9,8 @@
 - portable
 
 ## Radiomaster Zorro
+
+^d76ec8
 
 ![](Pasted%20image%2020241020025623.webp)
 - Supports more protocols

@@ -18,10 +18,10 @@ Cons:
 ![](Pasted%20image%2020241020024623.webp)
 ### Components
 -  0702 30000kv
--  Meteor65 air frame
+-  Meteor65 air frame ^6fb142
 - Betafpv F4 Lite(ELRS)
-- CO3 Camera
-- MO3 Vtx
+- CO3 Camera ^9bc127
+- MO3 Vtx ^229f3b
 - Gemfan 3-paddle props(3mm stems) - Replacement Extra available
 ### Total Weight
 - Approx 18 - 19.5
