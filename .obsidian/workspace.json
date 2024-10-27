@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/find/Miscelaneous.md",
+                "file": "docs/find/Anton.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Miscelaneous"
+              "title": "Anton"
             }
           }
         ]
@@ -177,10 +177,11 @@
   },
   "active": "a89ade731931cad4",
   "lastOpenFiles": [
+    "Anton-20241027171930483.webp",
+    "docs/find/Miscelaneous.md",
     "docs/find/Otto.md",
     "docs/find/Odipus.md",
     "docs/find/Nordpol.md",
-    "docs/find/Miscelaneous.md",
     "docs/find/Martha.md",
     "docs/find/Konrad.md",
     "docs/find/Ludwig.md",
@@ -210,7 +211,6 @@
     "docs/b428bc420d43cf4a4003909f303b2a53_MD5.webp",
     "docs/b34de69c425672cdccc0cd8db02b32d3_MD5.jpg",
     "docs/index.md",
-    "docs/Item List.md",
     "docs/8eb81578967bafbb44aa66270d8f2f20_MD5.jpg",
     "docs/7f8d2500327e72f6192c68c7f4489a55_MD5.jpg",
     "docs/Learning"
