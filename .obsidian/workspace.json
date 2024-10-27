@@ -11,12 +11,14 @@
             "id": "a89ade731931cad4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "docs/fe5128171d8e60f5ddab09b50242d025_MD5.jpg"
+                "file": "docs/find/Miscelaneous.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "fe5128171d8e60f5ddab09b50242d025_MD5"
+              "icon": "lucide-file",
+              "title": "Miscelaneous"
             }
           }
         ]
@@ -173,12 +175,33 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "57790ddf8bbe6aea",
+  "active": "a89ade731931cad4",
   "lastOpenFiles": [
+    "docs/find/Otto.md",
+    "docs/find/Odipus.md",
+    "docs/find/Nordpol.md",
+    "docs/find/Miscelaneous.md",
+    "docs/find/Martha.md",
+    "docs/find/Konrad.md",
+    "docs/find/Ludwig.md",
+    "docs/find/Julius.md",
+    "docs/find/Ida.md",
+    "docs/find/Heinrich.md",
+    "docs/find/Gustav.md",
+    "docs/find/Friedrich.md",
+    "docs/find/Emil.md",
+    "docs/find/Dora.md",
+    "docs/find/components.md",
+    "docs/find/Charlotte.md",
+    "docs/find/Caser.md",
+    "docs/find/Cameras.md",
     "docs/find/Bertha.md",
-    "docs/find/Aeromodelling.md",
     "docs/find/Arger.md",
     "docs/find/Anton.md",
+    "docs/find/Batteries.md",
+    "docs/7a142f33e0510a54e6eaf6175b8cdb7b_MD5.jpg",
+    "docs/fe5128171d8e60f5ddab09b50242d025_MD5.jpg",
+    "docs/find/Aeromodelling.md",
     "docs/a9754adb96ed79fc76932db6ba82fbd4_MD5.jpg",
     "docs/ab4fda25cb725c63ca9d22d3e304e4c5_MD5.jpg",
     "conflict-files-obsidian-git.md",
@@ -190,20 +213,6 @@
     "docs/Item List.md",
     "docs/8eb81578967bafbb44aa66270d8f2f20_MD5.jpg",
     "docs/7f8d2500327e72f6192c68c7f4489a55_MD5.jpg",
-    "docs/7a142f33e0510a54e6eaf6175b8cdb7b_MD5.jpg",
-    "docs/3b48352cab2f93ada9e422d22941c603_MD5.jpg",
-    "docs/Learning/Plane Building Introduction.md",
-    "docs/Learning/Drones Learning.md",
-    "docs/find/Caser.md",
-    "docs/Learning/processes.md",
-    "README.md",
-    "docs/Learning",
-    "docs/find/Adhesives.md",
-    "docs/find/connectors.md",
-    "docs/find/Servo.md",
-    "docs/find/components.md",
-    "docs/find/Zeppelin.md",
-    "docs/find/Viktor.md",
-    "banaplugs.md"
+    "docs/Learning"
   ]
 }
