@@ -9,4 +9,29 @@
 ![1000180122](f704324af1ce388daffd0b3caa5e61fb_MD5.jpg)
 
 
+<<<<<<< HEAD
 ## Broken Items
+=======
+Radiomaster Pocket
+
+Radiomaster Zorro
+
+CA Glue
+
+Kicker
+
+Epoxy 
+
+UHU Glue
+
+Tattu Funfly 4s
+
+3 * Hobbysquare 2s plane battery 440 mah
+
+4 * F3P Props
+
+4 * 4d Props
+
+
+## Broken Items
+>>>>>>> origin/main

@@ -5,6 +5,16 @@
 ![1000020209](093c447cea140f9144e553e2389082cc_MD5.jpg)
 
 ## Items in it
--
+ST Link
+
+MPU6050
+
+BMP280
+
+Silicone Wires
+
+Wire wrapping wires
+
+Wire wrapping tool
 
 ## Broken Items
