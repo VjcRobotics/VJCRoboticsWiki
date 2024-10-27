@@ -11,12 +11,14 @@
             "id": "a89ade731931cad4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "a9754adb96ed79fc76932db6ba82fbd4_MD5.jpg"
+                "file": "docs/find/Bertha.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "a9754adb96ed79fc76932db6ba82fbd4_MD5"
+              "icon": "lucide-file",
+              "title": "Bertha"
             }
           }
         ]
@@ -175,9 +177,12 @@
   },
   "active": "a89ade731931cad4",
   "lastOpenFiles": [
+    "docs/find/Aeromodelling.md",
+    "docs/find/Arger.md",
+    "docs/find/Anton.md",
+    "a9754adb96ed79fc76932db6ba82fbd4_MD5.jpg",
     "ab4fda25cb725c63ca9d22d3e304e4c5_MD5.jpg",
     "conflict-files-obsidian-git.md",
-    "docs/find/Anton.md",
     "4b15ff4bf37f50f54f4faf5816690135_MD5.jpg",
     "cf99e6726ec4623883ead9d491dd9a93_MD5.jpg",
     "b428bc420d43cf4a4003909f303b2a53_MD5.webp",
@@ -191,12 +196,10 @@
     "3b48352cab2f93ada9e422d22941c603_MD5.jpg",
     "docs/Learning/Plane Building Introduction.md",
     "docs/Learning/Drones Learning.md",
-    "01128301c9a515a0567b0878387fed84_MD5.jpg",
     "docs/find/Caser.md",
     "docs/Learning/processes.md",
     "README.md",
     "docs/Learning",
-    "docs/find/Aeromodelling.md",
     "docs/find/Adhesives.md",
     "docs/find/connectors.md",
     "docs/find/Servo.md",
