@@ -1,12 +1,12 @@
 # Xanthippe
 
 ## Location 
-![1000180137](https://github.com/user-attachments/assets/15a598c6-9da4-4674-8aa7-af9534adfb23)
+![1000180137](f775be168cfcd35eee0811ffc4b89c2a_MD5.jpg)
 
 
 ## Items in it
-![1000180136](https://github.com/user-attachments/assets/47e40ac3-d010-491c-b650-3017f3a6d1d2)
-![1000180135](https://github.com/user-attachments/assets/afb6653a-a810-4a01-82df-7399c6f945d7)
+![1000180136](958240303783478190a7df86c33e577d_MD5.jpg)
+![1000180135](fe5128171d8e60f5ddab09b50242d025_MD5.jpg)
 
 
 ## Broken Items

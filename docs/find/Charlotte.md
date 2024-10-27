@@ -1,8 +1,8 @@
 # Charlotte
 
 ## Location
-![1000020210](https://github.com/user-attachments/assets/a5b2b5ac-50f8-409a-9fbd-e3b2c933f36e)
-![1000020209](https://github.com/user-attachments/assets/4194e447-8d0c-4161-9ffd-0d4e78439a66)
+![1000020210](7a142f33e0510a54e6eaf6175b8cdb7b_MD5.jpg)
+![1000020209](093c447cea140f9144e553e2389082cc_MD5.jpg)
 
 ## Items in it
 -

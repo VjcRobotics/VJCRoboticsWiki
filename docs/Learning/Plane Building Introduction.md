@@ -1,5 +1,5 @@
 For this aeromodelling project, you will need **non-rusted** high quality penknifes such as these
-![](https://images.thdstatic.com/productImages/987e2258-f7c3-438f-8393-663de2912ce3/svn/stanley-utility-knives-10-401-64_600.jpg)
+![](b428bc420d43cf4a4003909f303b2a53_MD5.webp)
 ---
 
 

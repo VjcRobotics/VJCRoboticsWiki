@@ -1,12 +1,12 @@
 # Bertha
 
 ## Location 
-![1000180121](https://github.com/user-attachments/assets/32795718-dbee-49bf-a42b-3ed5515b3444)
+![1000180121](166953887e714a33317948bbc24a447c_MD5.jpg)
 
 
 ## Items in it
-![1000180123](https://github.com/user-attachments/assets/38e5605f-f388-4409-98c5-63fbb148740d)
-![1000180122](https://github.com/user-attachments/assets/2ef7aff1-821d-4a6b-b617-215842435b79)
+![1000180123](a7f57312ce1c870bcdbe4c0c106d80b2_MD5.jpg)
+![1000180122](f704324af1ce388daffd0b3caa5e61fb_MD5.jpg)
 
 
 ## Broken Items

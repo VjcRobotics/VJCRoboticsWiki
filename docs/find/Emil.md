@@ -1,12 +1,12 @@
 # Emil
 
 ## Location
-![1000180127](https://github.com/user-attachments/assets/068a4232-6674-49e6-a0c5-d2faa5a12d5b)
+![1000180127](cf99e6726ec4623883ead9d491dd9a93_MD5.jpg)
 
 
 ## Items in it
-![1000180126](https://github.com/user-attachments/assets/7e450fcb-2fb7-45fe-b477-0b4cc2ad8511)
-![1000180124](https://github.com/user-attachments/assets/aa23ca5b-1958-4ef5-a57a-d1f11f831202)
+![1000180126](294aa0683300c0d3faaad89d5fd413dc_MD5.jpg)
+![1000180124](b34de69c425672cdccc0cd8db02b32d3_MD5.jpg)
 
 
 ## Broken Items

@@ -1,8 +1,8 @@
 # Ida
 
 ## Location
-![1000020216](https://github.com/user-attachments/assets/75d72694-80d2-4cf6-a08b-1f93b0b0378c)
-![1000020215](https://github.com/user-attachments/assets/deee7b4c-48fd-484d-b1eb-c16553910528)
+![1000020216](a8d290641468a3180af3914cf5ee6ca5_MD5.jpg)
+![1000020215](163aa730e3a01593b9a4949130313cb8_MD5.jpg)
 
 ## Items in it
 -

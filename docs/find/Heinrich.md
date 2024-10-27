@@ -1,12 +1,12 @@
 # Heinrich
 
 ## Location 
-![1000180131](https://github.com/user-attachments/assets/d1684188-c072-4e87-94d1-ef26abdbf48c)
+![1000180131](e7b2c56860404b2254579b68f12910ee_MD5.jpg)
 
 
 ## Items in it
-![1000180130](https://github.com/user-attachments/assets/ab39b215-dbce-4765-901b-f5a04567ce44)
-![1000180128](https://github.com/user-attachments/assets/87d46a09-74da-46ab-b6b4-0bc5c1239f3a)
+![1000180130](3b48352cab2f93ada9e422d22941c603_MD5.jpg)
+![1000180128](4b15ff4bf37f50f54f4faf5816690135_MD5.jpg)
 
 
 ## Broken Items
